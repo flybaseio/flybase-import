@@ -1,7 +1,7 @@
 # Flybase-Import
 
 Flybase-import is a helper utility for importing large JSON files into [Flybase](https://www.flybase.io/). It 
-breaks the JSON into smaller chunks and uploads them individually through the Data MCFly API.
+breaks the JSON into smaller chunks and uploads them individually through the Flybase API.
 
 ## Installing
 
